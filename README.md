@@ -20,4 +20,4 @@ A practice project where I recreated the layout and design of an existing websit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/eyy4k/Copy-Website-2.git
+   git clone [https://github.com/eyy4k/Copy-Website-2.git](https://eyy4k.github.io/Copy-Website-2/)
