@@ -1,4 +1,4 @@
-# 🧪 Copy Website 2
+# 🧪 Copy Website - Unfinished
 
 A practice project where I recreated the layout and design of an existing website using HTML and CSS. This helps improve my front-end skills, especially in layout structuring and styling consistency.
 
